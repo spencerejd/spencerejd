@@ -1,11 +1,11 @@
 ### Hi I'm Spencer 👋
 
 👨🏿‍💻 I'm a recent Data Engineering Bootcamp Grad with 4 years experience in Venture Capital and a Master's in Biotechnology from Imperial College London
-
-- I'm proficient in Python, SQL, AWS, Databricks, Apache Kafka, Spark, Airflow and Git
-- I am coming to the end of my Data Engineering scholarship with AiCore
-- Currently pursuing opportunities in Software or Data Engineering
-- Drop me a message on [LinkedIn](https://www.linkedin.com/in/spencerduvwiama/) to connect
+ 
+- 🖥️ I'm proficient in Python, SQL, AWS, Databricks, Apache Kafka, Spark, Airflow and Git
+- 🎓 I am coming to the end of my Data Engineering scholarship with AiCore
+- 💼 Currently pursuing new opportunities in Software or Data Engineering
+- 📮 Drop me a message on [LinkedIn](https://www.linkedin.com/in/spencerduvwiama/) to connect
 
   
 <!--
