@@ -5,7 +5,7 @@
 - 🖥️ I'm proficient in Python, SQL, AWS, Databricks, Apache Kafka, Spark, Airflow and Git
 - 🎓 I am coming to the end of my Data Engineering scholarship with AiCore
 - 💼 Currently pursuing new opportunities in Software or Data Engineering
-- 📮 Drop me a message on [LinkedIn](https://www.linkedin.com/in/spencerduvwiama/) to connect
+- 📮 Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/spencerduvwiama/) to connect!
 
   
 <!--
