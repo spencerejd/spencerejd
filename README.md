@@ -1,11 +1,11 @@
 ### Hi I'm Spencer 👋
 
-👨🏿‍💻 I'm a recent Data Engineering Bootcamp Grad with 4 years experience in Venture Capital and a Master's in Biotechnology from Imperial College London
+👨🏿‍💻 I'm a Data Engineer at PhycoWorks - which is a biotech company developing algae as a sustainable manufacturing platform for chemicals and materials.
 
 **About me:**
  
 - 🖥️ I'm proficient in Python, SQL, AWS, Databricks, Apache Kafka, Spark, Airflow and Git
-- 🎓 I am coming to the end of my Data Engineering scholarship with AiCore
+- 🎓 Completed a Data Engineering bootcamp in 2024
 - 💼 Currently pursuing new opportunities in Software or Data Engineering
 - 📮 Feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/spencerduvwiama/) to connect!
 
