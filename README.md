@@ -1,6 +1,6 @@
 ### Hi I'm Spencer 👋
 
-👨🏿‍💻 I'm a Data Engineer at PhycoWorks - which is a biotech company developing algae as a sustainable manufacturing platform for chemicals and materials.
+👨🏿‍💻 I'm a Data Engineer at PhycoWorks - a biotech company developing algae as a sustainable manufacturing platform for chemicals and materials.
 
 **About me:**
  
